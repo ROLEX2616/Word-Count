@@ -23,8 +23,8 @@ Giving print statement for getting output.
 ```
 
 # Word count in a Text file
-# Developed by: HAREESH R
-# Register number: 212223230068
+# Developed by: KAVINRAJ.S
+# Register number: 212223100019
 num=0
 with open ("sam.txt","r") as f1:
     for i in f1:
